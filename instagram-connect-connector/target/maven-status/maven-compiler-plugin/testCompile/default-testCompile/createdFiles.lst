@@ -1,0 +1,2 @@
+org\mule\modules\instagramconnect\automation\runner\FunctionalTestSuite.class
+org\mule\modules\instagramconnect\automation\functional\GetSelfUserTestCases.class
